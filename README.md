@@ -32,3 +32,5 @@ nothing added to commit but untracked files present (use "git add" to track)
 
 C:\Users\User\Documents\Benji\Coding\special-characters>
 ```
+
+Incidentally, I accidently made the folder `asteriskfile`, and I can't delete the folder in the Web UI, nor can I sort it out on a Git repo on my computer unless I let it clean up all of my special character names by deleting the files (which potentially could have useful data in).
